@@ -1,0 +1,11 @@
+{
+  "name": "java-exercise-7",
+  "version": "1.0.0",
+  "description": "Implementare, tramite blocchi condizionali e cicli, la funzione `nicknameMap`, la quale, dato un array di persone, crea un array di nickname. Il nickname deve essere formato nel seguente modo: `<name>-<age>`",
+  "main": "exercise-4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
