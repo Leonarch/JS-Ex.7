@@ -4,8 +4,7 @@ function nicknameMap(persons) {
  for (element of persons){
    nicknames.push(`${element.name}-${element.age}`);
  }
- 
-return nicknames;
+ return nicknames;
 }
 
 const persons = [
